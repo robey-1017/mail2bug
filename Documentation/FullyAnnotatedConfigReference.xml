@@ -121,7 +121,7 @@
                  triggered the work item creation
                - RawMessageBody - The raw body of the email - i.e. if it's an HTML message, this would be the full
                  message HTML
-               - RawMessageBodyWithSender - The raw body of the email prepended with the display name and email address - i.e. if it's an HTML message, this would be the full
+               - RawMessageBodyFromReply - The raw body of the email from a reply to the incoming message - i.e. if it's an HTML message, this would be the full
                  message HTML
                - Now - Current date time in general ("g") date time format (see 
                  https://msdn.microsoft.com/en-us/library/az4se3k1%28v=vs.110%29.aspx for date time format specification)
